@@ -116,6 +116,7 @@
 ### 플랫폼
 
 - iOS (Swift) - 서버/안드로이드는 원청 자체 제작입니다. : 스토어 미공개
+- [참고용 안드로이드 링크](https://play.google.com/store/apps/details?id=com.viva.viva_kindoc)
 
 ### 특이 기능 목록
 
