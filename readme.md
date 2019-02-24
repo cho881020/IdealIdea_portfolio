@@ -38,6 +38,7 @@
 
 - [Android (JAVA) - 근무자, 발주자, 시스템어드민](https://play.google.com/store/apps/details?id=kjstudio.kr.delivery)
 - [iOS (Swift) - 근무자](https://itunes.apple.com/kr/app/id1386210685?mt=8)
+- [소개페이지](http://wasavi.kr/)
 
 ### 특이 기능 목록
 
