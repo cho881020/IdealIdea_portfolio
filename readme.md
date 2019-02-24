@@ -8,7 +8,7 @@
 
 ### 플랫폼
 
-- 웹 (HTML / CSS / JS + Vue.js)
+- [웹 (HTML / CSS / JS + Vue.js)](http://luxty.pe)
 
 ### 특이 기능 목록
 
@@ -36,8 +36,8 @@
 
 ### 플랫폼
 
-- Android (JAVA) - 근무자, 발주자, 시스템어드민
-- iOS (Swift) - 근무자
+- [Android (JAVA) - 근무자, 발주자, 시스템어드민](https://play.google.com/store/apps/details?id=kjstudio.kr.delivery)
+- [iOS (Swift) - 근무자](https://itunes.apple.com/kr/app/id1386210685?mt=8)
 
 ### 특이 기능 목록
 
@@ -62,7 +62,7 @@
 
 ### 플랫폼
 
-- Web (HTML / CSS / JS) - 환자 플랫폼. 모바일/PC 별개작업
+- [Web (HTML / CSS / JS) - 환자 플랫폼. 모바일/PC 별개작업](https://www.mdpeople.co.kr)
 - 안드로이드 / iOS에 패킹하여, 일부 기능 (카메라 활용 등)은 네이티브 앱 코드로 작성되어있습니다.
 
 ### 특이 기능 목록
@@ -93,7 +93,7 @@
 
 ### 플랫폼
 
-- Web (HTML / CSS / JS)
+- [Web (HTML / CSS / JS)](http://ninewatt.com/)
 - Server - Node.js, Spring
 
 ### 특이 기능 목록
@@ -114,7 +114,7 @@
 
 ### 플랫폼
 
-- iOS (Swift) - 서버/안드로이드는 원청 자체 제작입니다.
+- iOS (Swift) - 서버/안드로이드는 원청 자체 제작입니다. : 스토어 미공개
 
 ### 특이 기능 목록
 
